@@ -1,0 +1,2 @@
+This repository focuses on natural language classification using a variety of deep learning models, including Recurrent Neural Networks (RNNs), Long Short-Term Memory (LSTM) networks, Plain Neural Networks, and state-of-the-art (SOTA) Transformers. Our goal is to provide a comprehensive toolkit for NLP tasks, showcasing different architectures and techniques to achieve accurate and efficient text classification. Join us in exploring the power of deep learning in understanding and processing natural language! 🚀
+
